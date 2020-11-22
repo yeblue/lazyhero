@@ -1,4 +1,4 @@
-> 提醒： 滥用可能导致账户被BAN！！！[Telegram讨论群](https://t.me/starts_sh_group)  
+> 提醒： 滥用可能导致账户被BAN！！！  
   
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mixool/lazyku)  
 * 此项目是[kuhero](https://github.com/mixool/kuhero)项目的lazy版
